@@ -52,7 +52,7 @@ To run this project locally on your machine:
 
 ## Screenshots
 
-![QR Code Generator Web View](Screenshots/WebView.png)
+![QR Code Generator Web View](screenshots/WebView.png)
 
 ## Contributing
 
