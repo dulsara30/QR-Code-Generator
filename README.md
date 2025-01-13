@@ -17,7 +17,7 @@ A simple, modern web-based QR Code Generator that allows users to create QR code
 
 ## Demo
 
-You can view a live demo of this project [here](https://dulsara30.github.io/QR-Code-Generator/).
+You can view a live demo of this project [here](https://dulsara30.github.io/QR-Code-Generator/index.html).
 
 ## Getting Started
 
